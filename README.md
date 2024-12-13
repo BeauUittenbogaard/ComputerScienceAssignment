@@ -1,4 +1,4 @@
-## ComputerScienceAssignment
+## Duplicate Detection Using LSH and Complete Linkage Clustering
 
 This project implements a product matching system that identifies duplicate or similar products in a dataset of product listings. The system leverages MinHashing and Locality-Sensitive Hashing (LSH) for efficient duplicate detection using product titles.
 
