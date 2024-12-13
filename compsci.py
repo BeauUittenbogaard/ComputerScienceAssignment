@@ -322,11 +322,6 @@ def get_factors(number):
     return sorted(factors)
 
 
-# Example usage
-number_of_hashes = 1000
-bands_list = get_factors(number_of_hashes)
-print("Factors (Number of Bands):", bands_list)
-
 # Running code
 data = load_data("C:/Users/Beau/PycharmProjects/computerscience/TVs-all-merged.json")
 titles_data = titles(data)
