@@ -20,13 +20,13 @@ The goal is to match products that are likely duplicates or variants by analyzin
 - Create dissimilarity matrix:
   A dissimilarity matrix is constructed based on the jaccard dissimilarity
   
--Clustering:
+- Clustering:
   Applies complete linkage clustering to the dissimilarity matrix to identify duplicate products.
 
--Evaluation:
+- Evaluation:
   Measures the performance of the algorithm using precision, recall, F1 score, and F1* score, for different number of bands and bootstrap iterations.
 
--Visualization:
+- Visualization:
   Plots graphs to visualize the relationship between the fraction of comparisons and the evaluation metrics.
 
 ## How to use the code
